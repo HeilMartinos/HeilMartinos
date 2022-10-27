@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeilMartinos.
 - 👀 I’m interested in IT, sports and music.
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on C++, HTML, CSS and JS.
 - 📫 How to reach me fb: https://www.facebook.com/marcinbator.ofc/
 
